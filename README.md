@@ -1,12 +1,12 @@
 What if better or Can I use
 ---
 
-The main purpose of the project to compare different
-approaches with having or not possible probabilities
-and make any futher decision based on made experiments.
+The main purpose of the project is to compare different
+approaches having or not possible probabilities
+in order to make any futher decision based on made experiments.
 
-**Warning: Please, do not take experiment results so serios, since they
-can rely on a spherical horse in a vacuum**
+**Warning: Please, do not take experiment results so seriosly due
+possible spherical horses in a vacuum during testing**
 
 ## Recommendation:
 
