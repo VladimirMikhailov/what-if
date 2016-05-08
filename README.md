@@ -15,7 +15,7 @@ include into every `experiment` or `script` a basic information about
 your system: OS, # of CPUs, Memory Capacity etc.
 
 For the instence on the Mac OS X you can't get it by running from
-command line tool:
+command line tool the following line:
 
   `system_profiler SPSoftwareDataType SPHardwareDataType | pbcopy`
 
